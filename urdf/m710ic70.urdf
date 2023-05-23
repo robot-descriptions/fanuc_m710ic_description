@@ -4,14 +4,14 @@
       <visual>
         <origin xyz="0 0 0" rpy="0 0 0"/>
         <geometry>
-          <mesh filename="package://fanuc_m710ic_support/meshes/m710ic50/visual/base_link.stl"/>
+          <mesh filename="package://fanuc_m710ic_description/meshes/m710ic50/visual/base_link.stl"/>
         </geometry>
           <material name="fanuc_black"/>
       </visual>
       <collision>
         <origin xyz="0 0 0" rpy="0 0 0"/>
         <geometry>
-          <mesh filename="package://fanuc_m710ic_support/meshes/m710ic50/collision/base_link.stl"/>
+          <mesh filename="package://fanuc_m710ic_description/meshes/m710ic50/collision/base_link.stl"/>
         </geometry>
       </collision>
 </link>
@@ -19,14 +19,14 @@
       <visual>
         <origin xyz="0 0 0" rpy="0 0 0"/>
         <geometry>
-          <mesh filename="package://fanuc_m710ic_support/meshes/m710ic50/visual/link_1.stl"/>
+          <mesh filename="package://fanuc_m710ic_description/meshes/m710ic50/visual/link_1.stl"/>
         </geometry>
           <material name="fanuc_yellow"/>
       </visual>
       <collision>
         <origin xyz="0 0 0" rpy="0 0 0"/>
         <geometry>
-          <mesh filename="package://fanuc_m710ic_support/meshes/m710ic50/collision/link_1.stl"/>
+          <mesh filename="package://fanuc_m710ic_description/meshes/m710ic50/collision/link_1.stl"/>
         </geometry>
       </collision>
     </link>
@@ -34,14 +34,14 @@
       <visual>
         <origin xyz="0 0 0" rpy="0 0 0"/>
         <geometry>
-          <mesh filename="package://fanuc_m710ic_support/meshes/m710ic50/visual/link_2.stl"/>
+          <mesh filename="package://fanuc_m710ic_description/meshes/m710ic50/visual/link_2.stl"/>
         </geometry>
           <material name="fanuc_yellow"/>
       </visual>
       <collision>
         <origin xyz="0 0 0" rpy="0 0 0"/>
         <geometry>
-          <mesh filename="package://fanuc_m710ic_support/meshes/m710ic50/collision/link_2.stl"/>
+          <mesh filename="package://fanuc_m710ic_description/meshes/m710ic50/collision/link_2.stl"/>
         </geometry>
       </collision>
     </link>
@@ -49,14 +49,14 @@
       <visual>
         <origin xyz="0 0 0" rpy="0 0 0"/>
         <geometry>
-          <mesh filename="package://fanuc_m710ic_support/meshes/m710ic50/visual/link_3.stl"/>
+          <mesh filename="package://fanuc_m710ic_description/meshes/m710ic50/visual/link_3.stl"/>
         </geometry>
           <material name="fanuc_yellow"/>
       </visual>
       <collision>
         <origin xyz="0 0 0" rpy="0 0 0"/>
         <geometry>
-          <mesh filename="package://fanuc_m710ic_support/meshes/m710ic50/collision/link_3.stl"/>
+          <mesh filename="package://fanuc_m710ic_description/meshes/m710ic50/collision/link_3.stl"/>
         </geometry>
       </collision>
     </link>
@@ -64,14 +64,14 @@
       <visual>
         <origin xyz="0 0 0" rpy="0 0 0"/>
         <geometry>
-          <mesh filename="package://fanuc_m710ic_support/meshes/m710ic50/visual/link_4.stl"/>
+          <mesh filename="package://fanuc_m710ic_description/meshes/m710ic50/visual/link_4.stl"/>
         </geometry>
           <material name="fanuc_yellow"/>
       </visual>
       <collision>
         <origin xyz="0 0 0" rpy="0 0 0"/>
         <geometry>
-          <mesh filename="package://fanuc_m710ic_support/meshes/m710ic50/collision/link_4.stl"/>
+          <mesh filename="package://fanuc_m710ic_description/meshes/m710ic50/collision/link_4.stl"/>
         </geometry>
       </collision>
     </link>
@@ -79,14 +79,14 @@
       <visual>
         <origin xyz="0 0 0" rpy="0 0 0"/>
         <geometry>
-          <mesh filename="package://fanuc_m710ic_support/meshes/m710ic50/visual/link_5.stl"/>
+          <mesh filename="package://fanuc_m710ic_description/meshes/m710ic50/visual/link_5.stl"/>
         </geometry>
           <material name="fanuc_yellow"/>
       </visual>
       <collision>
         <origin xyz="0 0 0" rpy="0 0 0"/>
         <geometry>
-          <mesh filename="package://fanuc_m710ic_support/meshes/m710ic50/collision/link_5.stl"/>
+          <mesh filename="package://fanuc_m710ic_description/meshes/m710ic50/collision/link_5.stl"/>
         </geometry>
       </collision>
     </link>
@@ -94,14 +94,14 @@
       <visual>
         <origin xyz="0 0 0" rpy="0 0 0"/>
         <geometry>
-          <mesh filename="package://fanuc_m710ic_support/meshes/m710ic50/visual/link_6.stl"/>
+          <mesh filename="package://fanuc_m710ic_description/meshes/m710ic50/visual/link_6.stl"/>
         </geometry>
           <material name="fanuc_black"/>
       </visual>
       <collision>
         <origin xyz="0 0 0" rpy="0 0 0"/>
         <geometry>
-          <mesh filename="package://fanuc_m710ic_support/meshes/m710ic50/collision/link_6.stl"/>
+          <mesh filename="package://fanuc_m710ic_description/meshes/m710ic50/collision/link_6.stl"/>
         </geometry>
       </collision>
     </link>
